@@ -2011,7 +2011,7 @@ E. Template Specific Elements
 }
 
 .ts-time-line__horizontal .ts-time-line__item .ts-box:before {
-    background-color: #474747;
+    
     bottom: -4.375rem;
     border-radius: 100%;
     content: "";
